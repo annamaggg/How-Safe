@@ -1,3 +1,13 @@
+# How Safe?
+
+An app which reports crime rates in a specified location. 
+
+This project was created to practice using React/Node to translate API data into a seamless user experience.
+
+## Notes
+
+
+<!--  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
