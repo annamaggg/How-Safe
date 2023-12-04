@@ -4,8 +4,16 @@ An app which reports crime rates in a specified location.
 
 This project was created to practice using React/Node to translate API data into a seamless user experience.
 
+## Plan 
+
+<div align="center">
+  <img src="https://github.com/annamaggg/How-Safe/blob/main/public/scrnsht.png" width="861" alt="img"/>
+</div>
+
 ## Notes
 
+Police data API: https://data.police.uk/docs/method/outcomes-at-location/ 
+Node client for API: https://github.com/AlexChesters/ukpd/blob/main/README.md
 
 <!--  
 # Getting Started with Create React App
